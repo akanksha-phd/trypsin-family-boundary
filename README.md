@@ -1,7 +1,7 @@
 # Trypsin family boundary analysis
 
 The project tests how to define an empirical, defensible boundary for the trypsin family, and compares "quick and dirty" and
-"comprehensive" strategies for sampling homologs. The written report is in `REPORT.md`.
+"comprehensive" strategies for sampling homologs. 
 
 ## Data
 - Seed: human PRSS1 (UniProt P07477), mature protease domain (starts at `IVGG`, 224 aa).
