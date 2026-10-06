@@ -1,0 +1,797 @@
+target	His	Asp	Ser	S1_res	triad_intact	pident	desc	organism	class
+P07477	H	D	S	D	True	100.0	Serine protease 1	Homo sapiens	trypsin
+P07478	H	D	S	D	True	89.2	Trypsin-2	Homo sapiens	trypsin
+Q8NHM4	H	D	S	D	True	89.2	Putative trypsin-6	Homo sapiens	trypsin
+P35030	H	D	S	D	True	87.0	Trypsin-3	Homo sapiens	trypsin
+P06872	H	D	S	D	True	80.8	Anionic trypsin	Canis lupus familiaris	trypsin
+P00763	H	D	S	D	True	80.2	Anionic trypsin-2	Rattus norvegicus	trypsin
+P08426	H	D	S	D	True	78.4	Cationic trypsin-3	Rattus norvegicus	trypsin
+Q9R0T7	H	D	S	D	True	78.9	Trypsin-4	Mus musculus	trypsin
+Q9QUK9	H	D	S	D	True	77.5	Trypsin-5	Mus musculus	trypsin
+P00761	H	D	S	D	True	78.9	Trypsin	Sus scrofa	trypsin
+Q29463	H	D	S	D	True	78.1	Anionic trypsin	Bos taurus	trypsin
+P00762	H	D	S	D	True	78.0	Serine protease 1	Rattus norvegicus	trypsin
+P07146	H	D	S	D	True	75.7	Anionic trypsin-2	Mus musculus	trypsin
+P00760	H	D	S	D	True	75.3	Serine protease 1	Bos taurus	trypsin
+P06871	H	D	S	D	True	75.3	Serine protease 1	Canis lupus familiaris	trypsin
+P70059	H	D	S	D	True	70.4	Trypsin	Xenopus laevis	trypsin
+P19799	H	D	S	D	True	70.8	Trypsin	Xenopus laevis	trypsin
+P35033	H	D	S	D	True	68.6	Trypsin-3 (Fragment)	Salmo salar	trypsin
+Q90627	H	D	S	D	True	68.6	Trypsin I-P1	Gallus gallus	trypsin
+Q90628	H	D	S	D	True	68.6	Trypsin I-P38	Gallus gallus	trypsin
+Q90629	H	D	S	D	True	70.2	Trypsin II-P29	Gallus gallus	trypsin
+P12788	H	D	S	D	True	68.3	Trypsin-4	Rattus norvegicus	trypsin
+P32822	H	D	S	D	True	67.2	Trypsin V-B	Rattus norvegicus	trypsin
+P32821	H	D	S	D	True	67.2	Trypsin V-A	Rattus norvegicus	trypsin
+P35032	H	D	S	D	True	63.8	Trypsin-2 (Fragment)	Salmo salar	trypsin
+P35031	H	D	S	D	True	63.5	Trypsin-1	Salmo salar	trypsin
+P00764	H	D	S	D	True	64.4	Trypsin	Squalus acanthias	trypsin
+P16049	H	D	S	D	True	62.4	Trypsin-1	Gadus morhua	trypsin
+Q91041	H	D	S	D	True	61.7	Trypsin-10	Gadus morhua	trypsin
+Q8CGR5	H	D	S	D	True	48.0	Kallikrein-14	Mus musculus	kallikrein
+P35034	H	-	S	D	False	47.3	Trypsin	Pleuronectes platessa	trypsin
+Q9Y337	H	D	S	D	True	46.9	Kallikrein-5	Homo sapiens	kallikrein
+P06870	H	D	S	D	True	43.5	Kallikrein-1	Homo sapiens	kallikrein
+P15947	H	D	S	D	True	43.0	Kallikrein-1	Mus musculus	kallikrein
+Q7JIG6	H	D	S	E	True	43.4	Kallikrein-15	Saguinus oedipus	kallikrein
+O88780	H	D	S	D	True	44.4	Kallikrein-8	Rattus norvegicus	kallikrein
+Q9UBX7	H	D	S	D	True	45.4	Kallikrein-11	Homo sapiens	kallikrein
+Q9P0G3	H	D	S	D	True	43.7	Kallikrein-14	Homo sapiens	kallikrein
+Q28773	H	D	S	D	True	43.7	Kallikrein-1	Papio hamadryas	kallikrein
+P20151	H	D	S	D	True	45.7	Kallikrein-2	Homo sapiens	kallikrein
+Q07276	H	D	S	D	True	43.5	Kallikrein-1	Macaca fascicularis	kallikrein
+Q61955	H	D	S	D	True	44.4	Kallikrein-8	Mus musculus	kallikrein
+Q9H2R5	H	D	S	E	True	42.9	Kallikrein-15	Homo sapiens	kallikrein
+O60259	H	D	S	D	True	43.1	Kallikrein-8	Homo sapiens	kallikrein
+Q09GK1	H	D	S	D	True	44.2	Snake venom serine protease	Philodryas olfersii	venom protease
+A8QL57	H	D	S	D	True	43.8	Snake venom serine protease BmSP (Fragment)	Bungarus multicinctus	venom protease
+Q9QYN3	H	D	S	D	True	44.5	Kallikrein-11	Mus musculus	kallikrein
+Q5MCS0	H	D	S	D	True	43.6	Serine protease harobin	Hydrophis hardwickii	other S1
+Q9UKR3	H	D	S	D	True	45.7	Kallikrein-13	Homo sapiens	kallikrein
+A8QL53	H	D	S	D	True	43.3	Snake venom serine protease NaSP (Fragment)	Naja atra	venom protease
+Q92876	H	D	S	D	True	44.6	Kallikrein-6	Homo sapiens	kallikrein
+P00752	H	D	S	D	True	41.0	Glandular kallikrein	Sus scrofa	kallikrein
+P36375	H	D	S	D	True	42.5	Glandular kallikrein-10	Rattus norvegicus	kallikrein
+P36373	H	D	S	D	True	43.6	Glandular kallikrein-7, submandibular/renal	Rattus norvegicus	kallikrein
+P07288	H	D	S	S	True	43.2	Prostate-specific antigen	Homo sapiens	kallikrein
+P36374	H	D	S	D	True	42.2	Prostatic glandular kallikrein-6	Rattus norvegicus	kallikrein
+A8QL56	H	D	S	D	True	42.2	Alpha- and beta-fibrinogenase OhS1	Ophiophagus hannah	venom protease
+Q9PT51	H	D	S	D	True	42.3	Beta-fibrinogenase brevinase	Gloydius blomhoffii	venom protease
+P36376	H	D	S	D	True	41.9	Glandular kallikrein-12, submandibular/renal	Rattus norvegicus	kallikrein
+P32824	H	D	S	D	True	41.9	Renal glandular kallikrein	Mastomys natalensis	kallikrein
+P00758	H	D	S	D	True	40.6	Kallikrein-1	Rattus norvegicus	kallikrein
+Q9YGS1	H	D	S	D	True	42.2	Thrombin-like enzyme acutin (Fragment)	Deinagkistrodon acutus	venom protease
+Q9YGI6	H	D	S	D	True	43.0	Snake venom serine protease pallabin-2	Gloydius halys	venom protease
+Q7SZE2	H	D	S	D	True	43.4	Bradykinin-releasing enzyme KR-E-1	Gloydius ussuriensis	other S1
+P15945	H	D	S	D	True	41.2	Kallikrein 1-related peptidase b5	Mus musculus	kallikrein
+Q61759	H	D	S	D	True	41.1	Kallikrein 1-related peptidase b21	Mus musculus	kallikrein
+Q7SZE1	H	D	S	D	True	44.7	Thrombin-like enzyme saxthrombin	Gloydius intermedius	venom protease
+P15946	H	D	S	D	True	40.2	Kallikrein 1-related peptidase b11	Mus musculus	kallikrein
+O93421	H	D	S	D	True	42.6	Snake venom serine protease pallase	Gloydius halys	venom protease
+Q9YGJ2	H	D	S	D	True	42.1	Snake venom serine protease pallabin	Gloydius halys	venom protease
+Q71QI1	H	D	S	D	True	42.1	Snake venom serine protease KN12	Trimeresurus stejnegeri	venom protease
+P49862	H	D	S	N	True	42.3	Kallikrein-7	Homo sapiens	kallikrein
+I4CHP3	H	D	S	D	True	41.3	Thrombin-like enzyme AhV_TL-I	Gloydius halys	venom protease
+Q71QH6	H	D	S	D	True	41.6	Snake venom serine protease KN13	Trimeresurus stejnegeri	venom protease
+P09582	H	D	S	D	True	39.8	Arginine esterase	Canis lupus familiaris	other S1
+P84787	H	D	S	D	True	41.4	Thrombin-like enzyme elegaxobin-2	Protobothrops elegans	venom protease
+N0A5N4	H	D	S	D	True	42.6	Thrombin-like enzyme agkihpin-2 (Fragment)	Gloydius halys	venom protease
+Q9PTL3	H	D	S	D	True	41.8	Snake venom serine protease salmonase	Gloydius brevicauda	venom protease
+P00756	H	D	S	D	True	39.4	Kallikrein 1-related peptidase b3	Mus musculus	kallikrein
+P15949	H	D	S	D	True	40.6	Kallikrein 1-related peptidase b9	Mus musculus	kallikrein
+N0AAE6	H	D	S	D	True	42.6	Thrombin-like enzyme agkihpin-1 (Fragment)	Gloydius halys	venom protease
+Q2PQJ3	H	D	S	D	True	41.5	Thrombin-like enzyme BjussuSP-1	Bothrops jararacussu	venom protease
+Q91509	H	D	S	D	True	41.4	Beta-fibrinogenase mucrofibrase-3	Protobothrops mucrosquamatus	venom protease
+Q71QJ4	R	D	S	D	False	42.1	Snake venom serine protease homolog KN4	Trimeresurus stejnegeri	venom protease
+P00755	H	D	S	D	True	41.1	Kallikrein 1-related peptidase b1	Mus musculus	kallikrein
+P84788	H	D	S	D	True	40.9	Thrombin-like enzyme elegaxobin-1	Protobothrops elegans	venom protease
+Q91VE3	H	D	S	N	True	41.4	Kallikrein-7	Mus musculus	kallikrein
+Q91511	H	D	S	D	True	41.4	Beta-fibrinogenase mucrofibrase-5	Protobothrops mucrosquamatus	venom protease
+P82981	H	D	S	D	True	42.1	Thrombin-like enzyme contortrixobin	Agkistrodon contortrix contortrix	venom protease
+P81176	H	D	S	D	True	40.9	Thrombin-like enzyme halystase	Gloydius blomhoffii	venom protease
+Q9JM71	H	D	S	G	True	40.7	Kallikrein 1-related peptidase b27	Mus musculus	kallikrein
+Q9UKR0	H	D	S	D	True	43.4	Kallikrein-12	Homo sapiens	kallikrein
+Q8AY80	H	D	S	D	True	41.2	Alpha- and beta-fibrinogenase stejnefibrase-1	Trimeresurus stejnegeri	venom protease
+Q072L6	N	D	S	D	False	41.3	Thrombin-like enzyme asperase	Bothrops asper	venom protease
+Q91053	H	D	S	D	True	40.5	Thrombin-like enzyme calobin-1	Gloydius ussuriensis	venom protease
+Q6T5L0	H	D	S	D	True	40.0	Alpha-fibrinogenase shedaoenase	Gloydius shedaoensis	venom protease
+Q9I8X1	H	D	S	D	True	41.2	Snake venom serine protease Dav-PA	Deinagkistrodon acutus	venom protease
+Q91510	H	D	S	D	True	40.9	Beta-fibrinogenase mucrofibrase-4	Protobothrops mucrosquamatus	venom protease
+Q9DG84	H	D	S	D	True	40.9	Snake venom serine protease serpentokallikrein-2	Protobothrops mucrosquamatus	kallikrein
+O13059	H	D	S	D	True	41.2	Snake venom serine protease 1	Craspedocephalus gramineus	venom protease
+Q71QH7	H	D	S	D	True	41.2	Snake venom serine protease PA	Trimeresurus stejnegeri	venom protease
+P33619	H	D	S	S	True	41.9	Prostate-specific antigen	Macaca mulatta	kallikrein
+Q6DT45	H	D	S	S	True	41.9	Prostate-specific antigen	Macaca fascicularis	kallikrein
+Q91508	H	D	S	D	True	40.5	Beta-fibrinogenase mucrofibrase-2	Protobothrops mucrosquamatus	venom protease
+P00759	H	D	S	D	True	41.7	Tonin	Rattus norvegicus	kallikrein
+P09872	H	D	S	D	True	39.9	Protein C activator	Agkistrodon contortrix contortrix	other S1
+E0Y421	H	D	S	G	True	41.4	Chymotrypsin-like protease VLCTLP	Macrovipera lebetinus	chymotrypsin-like
+Q91507	H	D	S	D	True	40.9	Beta-fibrinogenase mucrofibrase-1	Protobothrops mucrosquamatus	venom protease
+Q8AY79	H	D	S	D	True	41.2	Beta-fibrinogenase stejnefibrase-2	Trimeresurus stejnegeri	venom protease
+Q8UVX1	H	D	S	D	True	40.4	Snake venom serine protease gussurobin	Gloydius ussuriensis	venom protease
+Q8UUJ1	H	D	S	D	True	40.1	Snake venom serine protease ussurase	Gloydius ussuriensis	venom protease
+Q61754	H	D	S	D	True	39.9	Kallikrein 1-related peptidase b24	Mus musculus	kallikrein
+Q9UKQ9	H	D	S	G	True	41.7	Kallikrein-9	Homo sapiens	kallikrein
+E5L0E6	H	D	S	D	True	39.9	Protein C activator	Agkistrodon piscivorus leucostoma	other S1
+P0CJ41	H	D	S	D	True	40.7	Alpha-fibrinogenase albofibrase	Trimeresurus albolabris	venom protease
+Q7SYF1	H	D	S	D	True	42.5	Thrombin-like enzyme cerastocytin	Cerastes cerastes	venom protease
+Q8UUJ2	H	D	S	D	True	39.1	Snake venom serine protease ussurin	Gloydius ussuriensis	venom protease
+J3S835	H	D	S	D	True	42.5	Snake venom serine proteinase 8	Crotalus adamanteus	venom protease
+Q8AY78	H	D	S	D	True	42.1	Snake venom serine protease 5	Trimeresurus stejnegeri	venom protease
+Q9DF67	H	D	S	D	True	41.7	Snake venom serine protease 2	Protobothrops jerdonii	venom protease
+Q7T229	N	D	S	D	False	41.3	Snake venom serine protease homolog	Bothrops jararacussu	venom protease
+E0Y419	H	D	S	D	True	40.5	Beta-fibrinogenase	Macrovipera lebetinus	venom protease
+Q6IWF1	H	D	S	D	True	38.7	Snake venom serine protease BthaTL	Bothrops alternatus	venom protease
+Q9PT41	H	D	S	D	True	40.9	Factor V activator	Macrovipera lebetinus	coag/complement
+P15948	H	D	S	D	True	38.4	Kallikrein 1-related peptidase b22	Mus musculus	kallikrein
+A1KXI1	H	D	S	D	True	42.6	Trypsin Blo t 3	Blomia tropicalis	trypsin
+P00757	H	D	S	Y	True	39.8	Kallikrein 1-related peptidase-like b4	Mus musculus	kallikrein
+Q9YGJ9	H	D	S	D	True	39.2	Snake venom serine protease Haly-2	Gloydius brevicauda	venom protease
+P05620	H	D	S	D	True	40.0	Thrombin-like enzyme flavoxobin	Protobothrops flavoviridis	venom protease
+Q5W958	Q	D	S	D	False	39.6	Snake venom serine protease homolog HS120	Bothrops jararaca	venom protease
+P0C5B4	H	D	S	D	True	40.0	Thrombin-like enzyme gloshedobin	Gloydius shedaoensis	venom protease
+O13060	R	D	S	D	False	40.1	Snake venom serine protease homolog 2A	Craspedocephalus gramineus	venom protease
+Q71QJ0	H	D	S	D	True	39.6	Snake venom serine protease KN2	Trimeresurus stejnegeri	venom protease
+Q91516	H	D	S	D	True	40.5	Venom plasminogen activator TSV-PA	Trimeresurus stejnegeri	venom protease
+Q27J47	H	D	S	D	True	41.6	Venom plasminogen activator LV-PA	Lachesis muta muta	venom protease
+P00765	H	D	S	D	True	42.7	Trypsin-1	Astacus astacus	trypsin
+Q9DF66	H	D	S	D	True	41.2	Snake venom serine protease 3	Protobothrops jerdonii	venom protease
+Q71QI0	R	D	S	D	False	40.1	Snake venom serine protease homolog KN7	Trimeresurus stejnegeri	venom protease
+Q76B45	H	D	S	D	True	35.9	Blarina toxin	Blarina brevicauda	other S1
+Q8QHK2	H	D	S	D	True	42.1	Snake venom serine protease catroxase-2	Crotalus atrox	venom protease
+P07647	H	D	S	D	True	40.8	Submandibular glandular kallikrein-9	Rattus norvegicus	kallikrein
+Q71QI5	H	D	S	D	True	40.5	Snake venom serine protease KN3	Trimeresurus stejnegeri	venom protease
+Q9Y5K2	H	D	S	D	True	40.2	Kallikrein-4	Homo sapiens	kallikrein
+O13062	H	D	S	D	True	39.2	Snake venom serine protease 2C	Craspedocephalus gramineus	venom protease
+P36368	H	D	S	D	True	38.3	Epidermal growth factor-binding protein type B	Mus musculus	coag/complement
+P29787	H	D	S	D	True	43.3	Trypsin 5G1	Aedes aegypti	trypsin
+P0CG03	N	T	S	D	False	40.0	Thrombin-like enzyme bhalternin	Bothrops alternatus	venom protease
+F8S116	H	D	S	D	True	42.1	Snake venom serine proteinase 5	Crotalus adamanteus	venom protease
+J3SDX0	H	D	S	D	True	38.8	Snake venom serine proteinase 4a	Crotalus adamanteus	venom protease
+J3SBQ3	H	D	A	D	False	38.4	Inactive snake venom serine proteinase 13	Crotalus adamanteus	venom protease
+P12323	H	D	S	D	True	37.3	Glandular kallikrein, prostatic	Cavia porcellus	kallikrein
+O13057	R	D	S	D	False	39.7	Snake venom serine protease 2	Protobothrops flavoviridis	venom protease
+B0ZT25	R	D	S	D	False	40.1	Snake venom serine protease homolog	Protobothrops jerdonii	venom protease
+P81824	H	D	S	D	True	40.4	Platelet-aggregating proteinase PA-BJ (Fragment)	Bothrops jararaca	other S1
+Q072L7	H	D	S	D	True	40.6	Snake venom serine protease	Lachesis stenophrys	venom protease
+P47796	H	D	S	S	True	42.6	Chymotrypsin A	Gadus morhua	chymotrypsin-like
+P81661	H	D	S	D	True	38.6	Thrombin-like enzyme bothrombin	Bothrops jararaca	venom protease
+E5L0E5	H	D	S	D	True	39.9	Venom plasminogen activator	Agkistrodon piscivorus leucostoma	venom protease
+Q8AY82	R	D	S	D	False	39.3	Snake venom serine protease homolog 1	Trimeresurus stejnegeri	venom protease
+O73800	H	D	S	D	True	39.4	Snake venom serine protease salmobin	Gloydius halys	venom protease
+Q8QHK3	H	D	S	D	True	37.5	Snake venom serine protease catroxase-1	Crotalus atrox	venom protease
+Q7Z410	H	D	S	D	True	39.0	Transmembrane protease serine 9	Homo sapiens	other S1
+Q71QJ3	H	D	S	D	True	40.0	Snake venom serine protease KN1	Trimeresurus stejnegeri	venom protease
+Q9YGJ8	H	D	S	D	True	40.3	Venom plasminogen activator Haly-PA	Gloydius brevicauda	venom protease
+P36369	H	D	S	D	True	38.3	Kallikrein 1-related peptidase b26	Mus musculus	kallikrein
+Q71QI7	H	D	S	D	True	39.7	Snake venom serine protease KN11	Trimeresurus stejnegeri	venom protease
+J3SDW9	H	D	S	G	True	39.3	Snake venom serine proteinase 14	Crotalus adamanteus	venom protease
+Q5W960	H	D	S	D	True	37.7	Snake venom serine protease HS112	Bothrops jararaca	venom protease
+Q9DF68	R	D	P	D	False	39.2	Snake venom serine protease homolog	Protobothrops jerdonii	venom protease
+J3RY93	H	D	S	D	True	39.1	Snake venom serine proteinase 12	Crotalus adamanteus	venom protease
+P18964	H	D	S	D	True	38.6	Factor V activator RVV-V alpha	Daboia siamensis	coag/complement
+Q8QG86	H	D	S	D	True	38.8	Snake venom serine protease BITS01A	Bothrops insularis	venom protease
+O13063	H	D	S	D	True	40.8	Snake venom serine protease 3	Craspedocephalus gramineus	venom protease
+P00766	H	D	S	S	True	43.1	Chymotrypsinogen A	Bos taurus	chymotrypsin-like
+E5L0E4	H	D	S	G	True	39.3	Beta-fibrinogenase-like	Daboia siamensis	venom protease
+P0DJF5	H	D	S	D	True	39.6	Venom plasminogen activator GPV-PA	Trimeresurus albolabris	venom protease
+P04813	H	D	S	S	True	42.0	Chymotrypsinogen 2	Canis lupus familiaris	chymotrypsin-like
+O43240	H	D	S	D	True	38.6	Kallikrein-10	Homo sapiens	kallikrein
+Q2QA04	H	D	S	G	True	39.4	Snake venom serine protease	Crotalus durissus durissus	venom protease
+Q9ES87	H	D	S	D	True	39.2	Prostasin	Rattus norvegicus	other S1
+O13069	H	D	S	D	True	39.6	Thrombin-like enzyme KN-BJ 2	Bothrops jararaca	venom protease
+P07628	H	D	S	N	True	37.5	Kallikrein 1-related peptidase b8	Mus musculus	kallikrein
+P69525	H	D	S	D	True	37.8	Transmembrane protease serine 9	Mus musculus	other S1
+P04971	H	D	S	D	True	37.3	Thrombin-like enzyme batroxobin	Bothrops atrox	venom protease
+E0Y420	H	D	S	D	True	38.7	Serine protease VLSP-3	Macrovipera lebetinus	other S1
+J3RYA3	H	D	S	D	True	39.7	Snake venom serine proteinase 9	Crotalus adamanteus	venom protease
+P69526	H	D	S	D	True	37.8	Transmembrane protease serine 9	Rattus norvegicus	other S1
+P85109	H	D	S	D	True	40.1	Thrombin-like enzyme kangshuanmei	Gloydius brevicauda	venom protease
+J3S832	H	D	S	D	True	39.4	Snake venom serine proteinase 11	Crotalus adamanteus	venom protease
+P39675	H	D	S	D	True	41.2	Mite allergen Der p 3	Dermatophagoides pteronyssinus	other S1
+P17538	H	D	S	S	True	42.0	Chymotrypsinogen B	Homo sapiens	chymotrypsin-like
+P35036	H	D	S	D	True	40.7	Trypsin-2	Anopheles gambiae	trypsin
+U5YCR8	H	D	S	D	True	38.3	Snake venom serine protease pictobin (Fragment)	Bothrops pictus	venom protease
+Q71QJ1	H	D	S	D	True	39.2	Snake venom serine protease KN9	Trimeresurus stejnegeri	venom protease
+P49275	H	D	S	D	True	40.1	Mite allergen Der f 3	Dermatophagoides farinae	other S1
+Q9CR35	H	D	S	S	True	41.6	Chymotrypsinogen B	Mus musculus	chymotrypsin-like
+P35037	H	D	S	D	True	40.3	Trypsin-3	Anopheles gambiae	trypsin
+Q9PTU8	H	D	S	D	True	38.5	Snake venom serine protease BPA	Bothrops jararaca	venom protease
+P43685	H	D	S	D	True	41.5	Gilatoxin	Heloderma horridum horridum	other S1
+Q9PSN3	H	D	S	D	True	38.4	Thrombin-like enzyme bilineobin	Agkistrodon bilineatus	venom protease
+J3S833	H	D	S	D	True	38.6	Snake venom serine proteinase 2	Crotalus adamanteus	venom protease
+Q8UUK2	H	D	S	D	True	38.6	Snake venom serine proteinase Sp1	Crotalus adamanteus	venom protease
+O13061	H	D	S	D	True	39.2	Snake venom serine protease 2B	Craspedocephalus gramineus	venom protease
+A0A1I9KNP0	R	D	N	D	False	38.0	Vaa serine proteinase homolog 1	Vipera ammodytes ammodytes	other S1
+P16296	H	D	S	D	True	42.2	Coagulation factor IX	Rattus norvegicus	coag/complement
+Q71QI8	H	D	S	D	True	39.2	Snake venom serine protease KN10	Trimeresurus stejnegeri	venom protease
+Q5W959	H	D	S	D	True	39.0	Snake venom serine protease HS114	Bothrops jararaca	venom protease
+Q9I8X2	H	D	S	D	True	38.2	Thrombin-like enzyme acutobin	Deinagkistrodon acutus	venom protease
+Q9DG83	H	D	S	D	True	40.4	Snake venom serine protease serpentokallikrein-1	Protobothrops mucrosquamatus	kallikrein
+Q16651	H	D	S	D	True	37.7	Prostasin	Homo sapiens	other S1
+Q9I8X0	H	D	S	D	True	37.4	Snake venom serine protease Dav-KN	Deinagkistrodon acutus	venom protease
+P33589	H	D	S	D	True	38.1	Thrombin-like enzyme gyroxin analog	Lachesis muta muta	venom protease
+Q5FBW2	H	D	S	D	True	34.5	Blarinasin-1 (Fragment)	Blarina brevicauda	other S1
+Q5FBW1	H	D	S	D	True	34.5	Blarinasin-2 (Fragment)	Blarina brevicauda	other S1
+Q58G94	H	D	S	D	True	37.7	Thrombin-like enzyme gyroxin B2.1	Crotalus durissus terrificus	venom protease
+Q71QH5	H	D	S	D	True	39.6	Snake venom serine protease KN8	Trimeresurus stejnegeri	venom protease
+Q9ESD1	H	D	S	D	True	37.6	Prostasin	Mus musculus	other S1
+O13058	H	D	S	G	True	40.4	Snake venom serine protease 3	Protobothrops flavoviridis	venom protease
+E5AJX2	H	D	S	D	True	36.1	Snake venom serine protease nikobin	Vipera nikolskii	venom protease
+B0FXM1	H	D	S	D	True	37.7	Thrombin-like enzyme gyroxin B1.3	Crotalus durissus terrificus	venom protease
+Q6GPI1	H	D	S	S	True	41.6	Chymotrypsinogen B2	Homo sapiens	chymotrypsin-like
+B5U6Y3	H	D	S	D	True	39.7	Serine protease sp-Eoc49	Echis ocellatus	other S1
+Q71QJ2	H	D	S	D	True	37.3	Snake venom serine protease KN6	Trimeresurus stejnegeri	venom protease
+F8S114	H	D	S	D	True	38.8	Thrombin-like enzyme crotalase	Crotalus adamanteus	venom protease
+J3S3W5	H	D	S	D	True	38.8	Snake venom serine proteinase 1	Crotalus adamanteus	venom protease
+O42207	H	D	S	D	True	38.5	Thrombin-like enzyme CPI-enzyme 2	Gloydius ussuriensis	venom protease
+Q71QH9	H	D	S	D	True	37.3	Snake venom serine protease KN14	Trimeresurus stejnegeri	venom protease
+A7LAC6	H	D	S	D	True	38.8	Thrombin-like enzyme 1	Trimeresurus albolabris	venom protease
+P16294	H	D	S	D	True	41.8	Coagulation factor IX	Mus musculus	coag/complement
+P0DJF6	H	D	S	G	True	40.1	Thrombin-like enzyme chitribrisin	Trimeresurus albolabris	venom protease
+P18965	H	D	S	D	True	37.1	Factor V activator RVV-V gamma	Daboia siamensis	coag/complement
+Q8AY81	H	D	S	D	True	37.9	Thrombin-like enzyme stejnobin	Trimeresurus stejnegeri	venom protease
+O97370	H	D	S	D	True	38.3	Mite allergen Eur m 3	Euroglyphus maynei	other S1
+P0DJ86	H	D	S	D	True	36.7	Thrombin-like enzyme leucurobin	Bothrops leucurus	venom protease
+Q802F0	H	D	S	D	True	38.1	Snake venom serine protease PTLE1	Gloydius halys	venom protease
+B0FXM3	H	D	S	D	True	37.1	Thrombin-like enzyme gyroxin B1.7	Crotalus durissus terrificus	venom protease
+Q6H321	H	D	S	S	True	37.5	Kallikrein-1E2	Equus caballus	kallikrein
+P35035	H	D	S	D	True	38.4	Trypsin-1	Anopheles gambiae	trypsin
+P00740	H	D	S	D	True	42.4	Coagulation factor IX	Homo sapiens	coag/complement
+A0A0S4FKT4	H	D	S	D	True	37.2	Thrombin-like enzyme collinein-1	Crotalus durissus terrificus	venom protease
+Q9PT40	R	D	N	D	False	37.2	Snake venom serine protease homolog 2	Macrovipera lebetinus	venom protease
+P07338	H	D	S	S	True	40.1	Chymotrypsinogen B	Rattus norvegicus	chymotrypsin-like
+D8MIA0	R	D	N	D	False	36.9	Snake venom serine protease homolog rhinocerase 2 (Fragment)	Bitis rhinoceros	venom protease
+Q6T6S7	R	D	N	D	False	36.9	Snake venom serine protease homolog 1	Bitis gabonica	venom protease
+Q71QI4	H	D	S	D	True	36.9	Snake venom serine protease KN5	Trimeresurus stejnegeri	venom protease
+Q95ND7	H	D	S	D	True	42.4	Coagulation factor IX	Pan troglodytes	coag/complement
+P80646	H	D	S	T	True	40.3	Chymotrypsin B	Gadus morhua	chymotrypsin-like
+P35038	H	D	S	D	True	39.4	Trypsin-4	Anopheles gambiae	trypsin
+K4LLQ2	H	D	S	D	True	35.8	Thrombin-like enzyme barnettobin (Fragment)	Bothrops barnetti	venom protease
+B0FXM2	H	D	S	D	True	36.8	Thrombin-like enzyme gyroxin B1.4	Crotalus durissus terrificus	venom protease
+P35041	H	D	S	D	True	39.6	Trypsin-7	Anopheles gambiae	trypsin
+P19540	H	D	S	D	True	41.5	Coagulation factor IX	Canis lupus familiaris	coag/complement
+Q9Z0M1	H	D	S	D	True	39.2	Kallikrein-4	Mus musculus	kallikrein
+D8MIA1	R	D	N	D	False	37.3	Snake venom serine protease homolog rhinocerase 3 (Fragment)	Bitis rhinoceros	venom protease
+Q71QI3	H	D	S	D	True	36.6	Snake venom serine protease CL5	Trimeresurus stejnegeri	venom protease
+Q9I8W9	H	D	S	D	True	36.7	Snake venom serine protease Dav-X	Deinagkistrodon acutus	venom protease
+Q71QI2	H	D	S	G	True	39.1	Snake venom serine protease CL2	Trimeresurus stejnegeri	venom protease
+E0Y418	H	D	S	D	True	36.9	Serine protease VLSP-1	Macrovipera lebetinus	other S1
+P29786	H	D	S	D	True	39.8	Trypsin 3A1	Aedes aegypti	trypsin
+Q2KJ63	H	D	S	D	True	40.0	Plasma kallikrein	Bos taurus	kallikrein
+P15950	-	D	S	D	False	43.8	Glandular kallikrein-3, submandibular (Fragment)	Rattus norvegicus	kallikrein
+D8MIA3	H	D	S	G	True	37.0	Snake venom serine protease rhinocerase 5 (Fragment)	Bitis rhinoceros	venom protease
+A7LAC7	H	D	S	D	True	37.5	Thrombin-like enzyme 2	Trimeresurus albolabris	venom protease
+P83748	H	D	S	D	True	40.6	Serine protease 30	Rattus norvegicus	other S1
+P06868	H	D	S	D	True	42.6	Plasminogen	Bos taurus	coag/complement
+P04071	H	D	S	G	True	37.1	Kallikrein 1-related peptidase b16	Mus musculus	kallikrein
+P00767	H	D	S	S	True	39.0	Chymotrypsinogen B	Bos taurus	chymotrypsin-like
+P35048	H	D	S	D	True	41.3	Trypsin (Fragment)	Simulium vittatum	trypsin
+Q6SA95	H	D	S	D	True	41.5	Coagulation factor IX	Felis catus	coag/complement
+P80219	H	D	S	N	True	41.7	Duodenase-1	Bos taurus	other S1
+P54625	H	D	S	D	True	38.9	Trypsin beta	Drosophila erecta	trypsin
+P00747	H	D	S	D	True	41.8	Plasminogen	Homo sapiens	coag/complement
+A0A182C2Z2	H	D	S	D	True	39.5	Ovochymase	Halocynthia roretzi	chymotrypsin-like
+P35044	H	D	S	D	True	41.0	Trypsin alpha-4	Lucilia cuprina	trypsin
+P40313	H	D	S	S	True	39.9	Chymotrypsin-like protease CTRL-1	Homo sapiens	chymotrypsin-like
+P16295	H	D	S	D	True	41.0	Coagulation factor IX (Fragment)	Cavia porcellus	coag/complement
+P16292	H	D	S	D	True	42.4	Coagulation factor IX	Oryctolagus cuniculus	coag/complement
+P80009	H	D	S	D	True	41.9	Plasminogen	Canis lupus familiaris	coag/complement
+D3ZTE0	H	D	S	D	True	37.4	Coagulation factor XII	Rattus norvegicus	coag/complement
+Q5R8X6	H	D	S	D	True	41.8	Plasminogen	Pongo abelii	coag/complement
+G2X668	H	D	S	D	True	39.7	Secreted trypsin protease VTP1	Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137)	trypsin
+Q9JIQ8	H	D	S	D	True	40.8	Transmembrane protease serine 2	Mus musculus	other S1
+Q91Y47	H	D	S	D	True	39.7	Coagulation factor XI	Mus musculus	coag/complement
+P00741	H	D	S	D	True	40.7	Coagulation factor IX	Bos taurus	coag/complement
+Q0IIH7	H	D	S	D	True	39.5	Suppressor of tumorigenicity 14 protein homolog	Bos taurus	other S1
+P35039	H	D	S	D	True	38.4	Trypsin-5	Anopheles gambiae	trypsin
+Q9QYZ9	H	D	S	D	True	38.6	Serine protease 30	Mus musculus	other S1
+P16293	H	D	S	D	True	42.6	Coagulation factor IX (Fragment)	Sus scrofa	coag/complement
+P03952	H	D	S	D	True	39.2	Plasma kallikrein	Homo sapiens	kallikrein
+P00746	H	D	S	D	True	36.7	Complement factor D	Homo sapiens	coag/complement
+Q9R098	H	D	S	D	True	39.0	Hepatocyte growth factor activator serine protease	Mus musculus	coag/complement
+P04814	H	D	S	D	True	39.6	Trypsin alpha	Drosophila melanogaster	trypsin
+P54624	H	D	S	D	True	40.0	Trypsin alpha	Drosophila erecta	trypsin
+P51779	H	D	S	D	True	37.0	Complement factor D	Sus scrofa	coag/complement
+P80931	H	D	S	N	True	38.6	Mast cell protease 1A	Ovis aries	other S1
+C0HKA5	H	D	S	D	True	37.9	Trypsin delta	Drosophila erecta	trypsin
+C0HKA6	H	D	S	D	True	37.9	Trypsin gamma	Drosophila erecta	trypsin
+D8MIA2	H	D	S	G	True	37.5	Snake venom serine protease rhinocerase 4 (Fragment)	Bitis rhinoceros	venom protease
+Q8JH85	H	D	S	G	True	39.0	Alpha-fibrinogenase	Macrovipera lebetinus	venom protease
+P06867	H	D	S	D	True	41.4	Plasminogen	Sus scrofa	coag/complement
+Q9Y5Y6	H	D	S	D	True	41.5	Suppressor of tumorigenicity 14 protein	Homo sapiens	other S1
+P27435	H	D	S	D	True	39.3	Tryptase	Rattus norvegicus	tryptase
+O88947	H	D	S	D	True	36.7	Coagulation factor X	Mus musculus	coag/complement
+Q6QNF4	H	D	S	D	True	37.3	Hepatocyte growth factor activator serine proteases	Canis lupus familiaris	coag/complement
+Q01177	H	D	S	D	True	41.2	Plasminogen	Rattus norvegicus	coag/complement
+P56677	H	D	S	D	True	39.4	Suppressor of tumorigenicity 14 protein homolog	Mus musculus	other S1
+Q9BQR3	H	D	S	D	True	36.4	Serine protease 27	Homo sapiens	other S1
+Q9H3S3	H	D	S	D	True	37.1	Transmembrane protease serine 5	Homo sapiens	other S1
+P12545	H	D	S	D	True	40.5	Plasminogen	Macaca mulatta	coag/complement
+P35004	H	D	S	D	True	38.0	Trypsin beta	Drosophila melanogaster	trypsin
+P21845	H	D	S	D	True	39.2	Tryptase beta-2	Mus musculus	tryptase
+Q80WM7	H	D	S	D	True	36.5	Serine protease 33	Mus musculus	other S1
+P00743	H	D	S	D	True	37.2	Coagulation factor X	Bos taurus	coag/complement
+Q9ER04	H	D	S	D	True	38.7	Transmembrane protease serine 5	Mus musculus	other S1
+P16291	H	D	S	D	True	39.9	Coagulation factor IX	Ovis aries	coag/complement
+Q80YC5	H	D	S	D	True	36.7	Coagulation factor XII	Mus musculus	coag/complement
+P36178	H	D	S	G	True	37.3	Chymotrypsin BII	Penaeus vannamei	chymotrypsin-like
+Q04962	H	D	S	D	True	36.4	Coagulation factor XII (Fragment)	Cavia porcellus	coag/complement
+Q7M323	H	D	S	D	True	41.7	Plasminogen	Capra hircus	coag/complement
+Q3T0A3	H	D	S	D	True	36.7	Complement factor D	Bos taurus	coag/complement
+Q8K1T0	H	D	S	D	True	40.5	Transmembrane protease serine 3	Mus musculus	other S1
+O19045	H	D	S	D	True	35.9	Coagulation factor X	Oryctolagus cuniculus	coag/complement
+E5L0E3	H	D	S	G	True	36.4	Alpha-fibrinogenase-like	Daboia siamensis	venom protease
+Q00871	H	D	S	S	True	36.4	Chymotrypsin BI	Penaeus vannamei	chymotrypsin-like
+P57727	H	D	S	D	True	39.6	Transmembrane protease serine 3	Homo sapiens	other S1
+Q28153	H	D	S	A	True	38.0	Chymotrypsin-like elastase family member 1	Bos taurus	elastase
+Q9ER10	H	D	S	D	True	35.1	Brain-specific serine protease 4	Mus musculus	other S1
+Q8BJR6	H	D	S	D	True	35.2	Serine protease 27	Mus musculus	other S1
+P14272	H	D	S	D	True	37.2	Plasma kallikrein	Rattus norvegicus	kallikrein
+Q02844	H	D	S	D	True	39.3	Tryptase	Mus musculus	tryptase
+P35040	H	D	S	G	True	36.0	Trypsin-6	Anopheles gambiae	trypsin
+P00748	H	D	S	D	True	36.3	Coagulation factor XII	Homo sapiens	coag/complement
+P81286	H	D	S	D	True	41.7	Plasminogen	Ovis aries	coag/complement
+Q5G270	H	D	S	D	True	38.5	Neurotrypsin	Gorilla gorilla gorilla	neurotrypsin
+Q8IYP2	H	D	S	Q	True	37.0	Serine protease 58	Homo sapiens	other S1
+C0HKA2	H	D	S	D	True	37.9	Trypsin delta	Drosophila melanogaster	trypsin
+C0HKA3	H	D	S	D	True	37.9	Trypsin gamma	Drosophila melanogaster	trypsin
+C0HKA4	H	D	S	D	True	37.9	Trypsin delta/gamma-like protein CG30031	Drosophila melanogaster	trypsin
+Q9N2D1	H	D	S	D	True	38.0	Tryptase	Sus scrofa	tryptase
+Q15661	H	D	S	D	True	38.3	Tryptase alpha/beta-1	Homo sapiens	tryptase
+Q804X6	H	D	S	D	True	38.6	Coagulation factor IX	Gallus gallus	coag/complement
+P20918	H	D	S	D	True	40.8	Plasminogen	Mus musculus	coag/complement
+P32038	H	D	S	D	True	35.4	Complement factor D	Rattus norvegicus	coag/complement
+P20231	H	D	S	D	True	37.9	Tryptase beta-2	Homo sapiens	tryptase
+Q8VIF2	H	D	S	D	True	39.3	Serine protease 42	Mus musculus	other S1
+P98139	H	D	S	D	True	38.5	Coagulation factor VII	Oryctolagus cuniculus	coag/complement
+P48740	H	D	S	D	True	34.5	Mannan-binding lectin serine protease 1	Homo sapiens	other S1
+Q5G268	H	D	S	D	True	38.1	Neurotrypsin	Nomascus leucogenys	neurotrypsin
+P18291	H	D	S	A	True	38.5	Granzyme B	Rattus norvegicus	other S1
+Q06605	H	D	S	A	True	39.1	Granzyme-like protein 1	Rattus norvegicus	other S1
+O46683	H	D	S	D	True	37.8	Mast cell protease 3	Ovis aries	other S1
+P00774	H	D	S	S	True	37.6	Chymotrypsin-like elastase family member 2A	Rattus norvegicus	elastase
+O60235	H	D	S	D	True	38.0	Transmembrane protease serine 11D	Homo sapiens	other S1
+Q29485	H	D	S	D	True	40.0	Plasminogen	Erinaceus europaeus	coag/complement
+Q5G266	H	D	S	D	True	37.7	Neurotrypsin	Trachypithecus phayrei	neurotrypsin
+Q5G267	H	D	S	D	True	37.7	Neurotrypsin	Macaca mulatta	neurotrypsin
+Q7RTY7	H	D	S	D	True	38.2	Ovochymase-1	Homo sapiens	chymotrypsin-like
+P35005	H	D	S	D	True	36.1	Trypsin epsilon	Drosophila melanogaster	trypsin
+P50342	H	D	S	D	True	40.1	Mast cell tryptase	Meriones unguiculatus	tryptase
+Q9GZN4	H	D	S	D	True	34.7	Brain-specific serine protease 4	Homo sapiens	other S1
+O35453	H	D	S	D	True	37.3	Serine protease hepsin	Mus musculus	other S1
+O97507	H	D	S	D	True	36.6	Coagulation factor XII	Sus scrofa	coag/complement
+O18783	H	D	S	D	True	38.7	Plasminogen	Notamacropus eugenii	coag/complement
+P49864	H	D	S	D	True	38.1	Granzyme K	Rattus norvegicus	other S1
+Q8BIK6	H	D	S	D	True	36.3	Transmembrane protease serine 7	Mus musculus	other S1
+P56730	H	D	S	D	True	38.1	Neurotrypsin	Homo sapiens	neurotrypsin
+Q6BEA2	H	D	S	D	True	34.4	Serine protease 27	Rattus norvegicus	other S1
+Q6UWB4	H	D	S	D	True	34.4	Serine protease 55	Homo sapiens	other S1
+Q63207	H	D	S	D	True	35.5	Coagulation factor X	Rattus norvegicus	coag/complement
+P00742	H	D	S	D	True	35.7	Coagulation factor X	Homo sapiens	coag/complement
+Q05319	H	D	S	D	True	36.6	Serine proteinase stubble	Drosophila melanogaster	other S1
+Q5G269	H	D	S	D	True	37.7	Neurotrypsin	Pongo pygmaeus	neurotrypsin
+Q32LI2	N	N	T	Q	False	36.2	Probable inactive serine protease 58	Bos taurus	other S1
+P54627	H	D	S	D	True	35.2	Trypsin epsilon	Drosophila erecta	trypsin
+Q9D9M0	H	D	S	D	True	37.3	Serine protease 52	Mus musculus	other S1
+Q6L711	H	D	S	D	True	37.6	Factor VII-activating protease	Rattus norvegicus	coag/complement
+P51588	H	D	S	D	True	38.9	Trypsin	Sarcophaga bullata	trypsin
+P08311	H	D	S	A	True	37.0	Cathepsin G	Homo sapiens	other S1
+O97399	H	D	S	D	True	37.7	Trypsin	Phaedon cochleariae	trypsin
+P05981	H	D	S	D	True	36.8	Serine protease hepsin	Homo sapiens	other S1
+Q5R5E8	H	D	S	D	True	36.5	Serine protease hepsin	Pongo abelii	other S1
+Q9UNI1	H	D	S	S	True	38.4	Chymotrypsin-like elastase family member 1	Homo sapiens	elastase
+Q91X79	H	D	S	S	True	36.7	Chymotrypsin-like elastase family member 1	Mus musculus	elastase
+Q8NF86	H	D	S	D	True	35.2	Serine protease 33	Homo sapiens	other S1
+Q14B24	H	D	S	G	True	36.3	Serine protease 57	Mus musculus	other S1
+C6ZDB5	H	D	S	D	True	37.5	Trypsin Tyr p 3.0101	Tyrophagus putrescentiae	trypsin
+Q6IE59	H	D	S	G	True	34.7	Serine protease 57	Rattus norvegicus	other S1
+P25155	H	D	S	D	True	36.9	Coagulation factor X	Gallus gallus	coag/complement
+Q04756	H	D	S	D	True	36.8	Hepatocyte growth factor activator serine protease	Homo sapiens	coag/complement
+P49863	H	D	S	D	True	36.6	Granzyme K	Homo sapiens	other S1
+Q05511	H	D	S	D	True	36.5	Serine protease hepsin	Rattus norvegicus	other S1
+Q1JRP2	H	D	S	D	True	37.5	Transmembrane protease serine 11C	Mus musculus	other S1
+Q8VCA5	H	D	S	D	True	36.8	Transmembrane protease serine 4	Mus musculus	other S1
+B8V7S0	H	D	S	G	True	38.6	CUB and peptidase domain-containing protein 1 (Fragment)	Acropora millepora	other S1
+Q7M761	H	D	S	D	True	36.5	Ovochymase-2	Mus musculus	chymotrypsin-like
+P03951	H	D	S	D	True	36.6	Coagulation factor XI	Homo sapiens	coag/complement
+P35588	H	D	S	D	True	38.3	Hypodermin-B	Hypoderma lineatum	other S1
+P08217	H	D	S	S	True	36.8	Chymotrypsin-like elastase family member 2A	Homo sapiens	elastase
+Q5NTB3	H	D	S	D	True	34.9	Coagulation factor XI	Bos taurus	coag/complement
+P26262	H	D	S	D	True	37.5	Plasma kallikrein	Mus musculus	kallikrein
+P00772	H	D	S	S	True	38.4	Chymotrypsin-like elastase family member 1	Sus scrofa	elastase
+Q2F9P2	H	D	S	D	True	38.6	Coagulation factor VII	Pan troglodytes	coag/complement
+Q8K0D2	H	D	S	D	True	36.8	Factor VII-activating protease	Mus musculus	coag/complement
+P0CW18	H	D	S	D	True	35.5	Serine protease 56	Homo sapiens	other S1
+P86091	H	D	S	D	True	35.4	Transmembrane protease serine 7	Rattus norvegicus	other S1
+Q5G271	H	D	S	D	True	37.7	Neurotrypsin	Pan troglodytes	neurotrypsin
+P14417	C	D	N	D	False	38.9	Apolipoprotein(a) (Fragment)	Macaca mulatta	other S1
+P17977	H	D	S	S	True	37.0	Cathepsin G	Rattus norvegicus	other S1
+P03953	H	D	S	D	True	34.6	Complement factor D	Mus musculus	coag/complement
+P08709	H	D	S	D	True	38.6	Coagulation factor VII	Homo sapiens	coag/complement
+G3V801	H	D	S	D	True	37.7	Neurotrypsin	Rattus norvegicus	neurotrypsin
+Q5G265	H	D	S	D	True	37.2	Neurotrypsin	Saguinus labiatus	neurotrypsin
+Q5QSK2	H	D	S	D	True	36.6	Transmembrane protease serine 11G	Rattus norvegicus	other S1
+Q5R1M5	H	D	S	S	True	37.6	Chymotrypsin-like elastase family member 1	Felis catus	elastase
+P50343	H	D	S	D	True	36.8	Tryptase beta-2	Rattus norvegicus	tryptase
+Q5U405	H	D	S	D	True	38.3	Transmembrane protease serine 13	Mus musculus	other S1
+O08762	H	D	S	D	True	37.7	Neurotrypsin	Mus musculus	neurotrypsin
+Q5K2P8	H	D	S	D	True	37.1	Polyserase-2	Mus musculus	other S1
+P28293	H	D	S	S	True	36.1	Cathepsin G	Mus musculus	other S1
+P42279	H	D	S	D	True	36.0	Trypsin eta	Drosophila melanogaster	trypsin
+P15944	H	D	S	D	True	37.8	Tryptase	Canis lupus familiaris	tryptase
+Q8MHY7	H	D	S	D	True	39.6	Urokinase-type plasminogen activator	Oryctolagus cuniculus	coag/complement
+Q17800	H	D	S	D	True	33.6	Serine protease svh-1	Caenorhabditis elegans	other S1
+P08519	H	D	S	D	True	40.5	Apolipoprotein(a)	Homo sapiens	other S1
+P04187	H	D	S	A	True	37.0	Granzyme B(G,H)	Mus musculus	other S1
+O46644	H	D	S	S	True	38.0	Chymotrypsin-like elastase family member 1	Macaca fascicularis	elastase
+P70375	H	D	S	D	True	36.4	Coagulation factor VII	Mus musculus	coag/complement
+Q2F9P4	H	D	S	D	True	37.8	Coagulation factor VII	Pan paniscus	coag/complement
+P98064	H	D	S	D	True	32.1	Mannan-binding lectin serine protease 1	Mus musculus	other S1
+Q9XSM2	H	D	S	D	True	36.7	Tryptase-2	Ovis aries	tryptase
+F2YMG0	H	D	S	D	True	35.7	Serine protease 56	Mus musculus	other S1
+P98073	H	D	S	D	True	37.5	Enteropeptidase	Homo sapiens	other S1
+P10144	H	D	S	T	True	38.7	Granzyme B	Homo sapiens	other S1
+P08419	H	D	S	S	True	37.3	Chymotrypsin-like elastase family member 2A	Sus scrofa	elastase
+P26324	H	D	S	D	True	32.7	Thrombin-like enzyme ancrod	Calloselasma rhodostoma	venom protease
+A1L453	H	D	S	T	True	35.4	Serine protease 38	Homo sapiens	other S1
+P15120	H	D	S	D	True	37.2	Urokinase-type plasminogen activator	Gallus gallus	coag/complement
+Q9BYE2	H	D	S	D	True	36.2	Transmembrane protease serine 13	Homo sapiens	other S1
+Q8CHN8	H	D	S	D	True	32.5	Mannan-binding lectin serine protease 1	Rattus norvegicus	other S1
+P00771	H	D	S	G	True	35.5	Brachyurin	Leptuca pugilator	other S1
+P35049	H	D	S	D	True	37.1	Trypsin	Fusarium oxysporum	trypsin
+Q867B0	H	D	S	S	True	38.4	Chymotrypsin-like elastase family member 1	Canis lupus familiaris	elastase
+O15393	H	D	S	D	True	37.1	Transmembrane protease serine 2	Homo sapiens	other S1
+P98140	H	D	S	D	True	34.8	Coagulation factor XII	Bos taurus	coag/complement
+Q9DBI0	H	D	S	D	True	34.4	Transmembrane protease serine 6	Mus musculus	other S1
+P98074	H	D	S	D	True	38.1	Enteropeptidase	Sus scrofa	other S1
+Q63ZK0	H	D	S	D	True	35.6	Serine protease ami	Xenopus laevis	other S1
+Q7RTY8	H	D	S	D	True	35.0	Transmembrane protease serine 7	Homo sapiens	other S1
+P54629	H	D	S	D	True	35.0	Trypsin eta	Drosophila erecta	trypsin
+P00773	H	D	S	S	True	35.8	Chymotrypsin-like elastase family member 1	Rattus norvegicus	elastase
+P00749	H	D	S	D	True	38.1	Urokinase-type plasminogen activator	Homo sapiens	coag/complement
+P29293	H	D	S	D	True	34.3	Acrosin	Rattus norvegicus	other S1
+P22457	H	D	S	D	True	35.5	Coagulation factor VII	Bos taurus	coag/complement
+Q8IU80	H	D	S	D	True	34.0	Transmembrane protease serine 6	Homo sapiens	other S1
+O35205	H	D	S	D	True	35.1	Granzyme K	Mus musculus	other S1
+P08001	H	D	S	D	True	33.8	Acrosin	Sus scrofa	other S1
+Q86T26	H	D	S	D	True	35.5	Transmembrane protease serine 11B	Homo sapiens	other S1
+P48038	H	D	S	D	True	30.5	Acrosin	Oryctolagus cuniculus	other S1
+Q5RF29	H	D	S	D	True	36.6	Urokinase-type plasminogen activator	Pongo abelii	coag/complement
+P35587	H	D	S	D	True	34.4	Hypodermin-A	Hypoderma lineatum	other S1
+Q14B25	H	D	S	D	True	39.1	Serine protease 48	Mus musculus	other S1
+P16227	H	D	S	D	True	36.8	Urokinase-type plasminogen activator	Papio cynocephalus	coag/complement
+P23578	H	D	S	D	True	33.4	Acrosin	Mus musculus	other S1
+Q5K4E3	H	D	S	D	True	37.1	Polyserase-2	Homo sapiens	other S1
+Q8K3U6	H	D	S	D	True	36.7	Coagulation factor VII	Rattus norvegicus	coag/complement
+Q8SQ23	H	D	S	D	True	36.6	Tissue-type plasminogen activator	Sus scrofa	coag/complement
+P98072	H	D	S	D	True	37.1	Enteropeptidase	Bos taurus	other S1
+Q8BZ10	H	D	S	D	True	35.3	Transmembrane protease serine 11G	Mus musculus	other S1
+Q9GL10	H	D	S	D	True	32.5	Acrosin (Fragment)	Ovis aries	other S1
+Q9NRS4	H	D	S	D	True	36.8	Transmembrane protease serine 4	Homo sapiens	other S1
+Q8BW11	H	D	T	L	False	33.8	Putative inactive serine protease 58	Mus musculus	other S1
+Q6P326	H	D	S	D	True	34.7	Serine protease ami	Xenopus tropicalis	other S1
+Q90WD8	H	D	S	D	True	31.6	Ovochymase-2	Bufo japonicus	chymotrypsin-like
+Q66TN7	H	D	S	D	True	32.5	Ovochymase-2	Rhinella arenarum	chymotrypsin-like
+P23946	H	D	S	S	True	37.0	Chymase	Homo sapiens	chymotrypsin-like
+A6NIE9	H	D	S	D	True	37.3	Putative serine protease 29	Homo sapiens	other S1
+Q9NRR2	H	D	S	D	True	36.5	Tryptase gamma	Homo sapiens	tryptase
+Q28278	H	D	S	D	True	32.4	Vitamin K-dependent protein C	Canis lupus familiaris	other S1
+P19221	H	D	S	D	True	34.2	Prothrombin	Mus musculus	coag/complement
+A4D1T9	H	D	A	R	False	35.8	Probable inactive serine protease 37	Homo sapiens	other S1
+Q28661	H	D	S	D	True	34.4	Vitamin K-dependent protein C (Fragment)	Oryctolagus cuniculus	other S1
+O19023	H	D	S	S	True	38.3	Chymotrypsin-like elastase family member 3B (Fragment)	Macaca mulatta	elastase
+Q9CQ52	H	D	S	S	True	39.4	Chymotrypsin-like elastase family member 3B	Mus musculus	elastase
+P19236	H	D	S	D	True	36.5	Mastin	Canis lupus familiaris	tryptase
+Q6UWY2	H	D	S	G	True	34.6	Serine protease 57	Homo sapiens	other S1
+Q14BX2	H	D	S	D	True	32.3	Serine protease 55	Mus musculus	other S1
+Q28380	H	D	S	D	True	33.0	Vitamin K-dependent protein C	Equus caballus	other S1
+Q28198	H	D	S	D	True	36.2	Tissue-type plasminogen activator	Bos taurus	coag/complement
+Q4R7Y7	H	D	A	R	False	35.8	Probable inactive serine protease 37	Macaca fascicularis	other S1
+P47797	H	D	S	D	True	32.4	Thrombin-like enzyme ancrod-2	Calloselasma rhodostoma	venom protease
+P09093	H	D	S	S	True	39.0	Chymotrypsin-like elastase family member 3A	Homo sapiens	elastase
+Q9GLP2	H	D	S	D	True	34.0	Vitamin K-dependent protein C	Sus scrofa	other S1
+Q14520	H	D	S	D	True	36.2	Factor VII-activating protease	Homo sapiens	coag/complement
+P00734	H	D	S	D	True	35.0	Prothrombin	Homo sapiens	coag/complement
+Q19AZ8	H	D	S	D	True	34.6	Prothrombin	Sus scrofa	coag/complement
+P0DRJ7	-	-	S	D	False	35.4	Kallikrein-like enzyme LV-Ka (Fragment)	Lachesis muta muta	kallikrein
+Q06606	H	D	S	A	True	37.4	Granzyme-like protein 2	Rattus norvegicus	other S1
+Q3UQ41	H	D	S	D	True	37.1	Transmembrane protease serine 11A	Mus musculus	other S1
+P08861	H	D	S	S	True	38.7	Chymotrypsin-like elastase family member 3B	Homo sapiens	elastase
+Q99MS4	H	D	S	D	True	33.3	Serine protease 29	Mus musculus	other S1
+P42280	H	D	S	D	True	37.2	Trypsin zeta	Drosophila melanogaster	trypsin
+P49150	H	D	S	D	True	36.1	Salivary plasminogen activator gamma	Desmodus rotundus	coag/complement
+P98121	H	D	S	D	True	36.1	Salivary plasminogen activator beta	Desmodus rotundus	coag/complement
+P15638	H	D	S	D	True	36.1	Salivary plasminogen activator alpha 2	Desmodus rotundus	coag/complement
+Q5E9Z2	H	D	S	D	True	36.0	Factor VII-activating protease	Bos taurus	coag/complement
+P54630	H	D	S	D	True	36.5	Trypsin zeta	Drosophila erecta	trypsin
+Q07943	H	D	S	D	True	35.4	Vitellin-degrading protease	Bombyx mori	other S1
+P05208	H	D	S	S	True	35.6	Chymotrypsin-like elastase family member 2A	Mus musculus	elastase
+Q28315	H	D	S	D	True	33.1	Vitamin K-dependent protein C	Capra hircus	other S1
+P18292	H	D	S	D	True	33.4	Prothrombin	Rattus norvegicus	coag/complement
+Q5R537	H	D	S	D	True	34.6	Prothrombin	Pongo abelii	coag/complement
+P08882	H	D	S	A	True	35.6	Granzyme C	Mus musculus	other S1
+P08883	H	D	S	S	True	34.3	Granzyme F	Mus musculus	other S1
+P11032	H	D	S	D	True	35.5	Granzyme A	Mus musculus	other S1
+P08218	H	D	S	C	True	34.8	Chymotrypsin-like elastase family member 2B	Homo sapiens	elastase
+Q8VHK8	H	D	S	D	True	33.3	Transmembrane protease serine 11D	Mus musculus	other S1
+P11214	H	D	S	D	True	36.1	Tissue-type plasminogen activator	Mus musculus	coag/complement
+P00768	H	D	S	G	True	36.8	Chymotrypsin-2	Vespa orientalis	chymotrypsin-like
+P52195	H	D	S	S	True	36.1	Chymase	Papio hamadryas	chymotrypsin-like
+P54628	H	D	S	D	True	37.5	Trypsin theta	Drosophila erecta	trypsin
+Q29461	H	D	S	S	True	36.4	Chymotrypsin-like elastase family member 2A	Bos taurus	elastase
+Q5S248	H	D	S	D	True	37.6	Transmembrane protease serine 11E	Mus musculus	other S1
+P31394	H	D	S	D	True	33.7	Vitamin K-dependent protein C	Rattus norvegicus	other S1
+P97435	H	D	S	D	True	35.9	Enteropeptidase	Mus musculus	other S1
+Q7SIG3	H	D	S	S	True	35.7	Elastase-1	Salmo salar	elastase
+P12544	H	D	S	D	True	35.9	Granzyme A	Homo sapiens	other S1
+Q14C59	H	D	S	D	True	34.7	Transmembrane protease serine 11B-like protein	Mus musculus	other S1
+P00745	H	D	S	D	True	34.7	Vitamin K-dependent protein C (Fragment)	Bos taurus	other S1
+P98119	H	D	S	D	True	35.7	Salivary plasminogen activator alpha 1	Desmodus rotundus	coag/complement
+Q7RTZ1	H	D	S	D	True	32.6	Ovochymase-2	Homo sapiens	chymotrypsin-like
+P35043	-	D	S	D	False	43.9	Trypsin alpha-3 (Fragment)	Lucilia cuprina	trypsin
+P20718	H	D	S	T	True	35.2	Granzyme H	Homo sapiens	other S1
+P56435	H	D	S	S	True	36.1	Chymase	Macaca fascicularis	chymotrypsin-like
+P19637	H	D	S	D	True	35.7	Tissue-type plasminogen activator	Rattus norvegicus	coag/complement
+P42278	H	D	S	D	True	37.9	Trypsin theta	Drosophila melanogaster	trypsin
+P29598	H	D	S	D	True	36.8	Urokinase-type plasminogen activator	Rattus norvegicus	coag/complement
+Q6IE06	H	D	T	L	False	32.7	Putative inactive serine protease 58	Rattus norvegicus	other S1
+Q9JHJ7	H	D	S	D	True	34.2	Testisin	Mus musculus	other S1
+P06869	H	D	S	D	True	36.0	Urokinase-type plasminogen activator	Mus musculus	coag/complement
+P33587	H	D	S	D	True	32.9	Vitamin K-dependent protein C	Mus musculus	other S1
+P00750	H	D	S	D	True	36.0	Tissue-type plasminogen activator	Homo sapiens	coag/complement
+Q9VZH2	H	D	G	D	False	32.9	Protein masquerade	Drosophila melanogaster	other S1
+Q32KU2	H	D	A	R	False	34.4	Probable inactive serine protease 37	Bos taurus	other S1
+P24158	H	D	S	G	True	35.8	Myeloblastin	Homo sapiens	other S1
+P97594	H	D	S	A	True	36.1	Mast cell protease 8	Rattus norvegicus	other S1
+O93267	D	S	R	D	False	33.3	Trypsinogen-like protein 3	Pseudopleuronectes americanus	trypsin
+P04185	H	D	S	D	True	34.1	Urokinase-type plasminogen activator	Sus scrofa	coag/complement
+P00735	H	D	S	D	True	34.6	Prothrombin	Bos taurus	coag/complement
+Q05589	H	D	S	D	True	36.5	Urokinase-type plasminogen activator	Bos taurus	coag/complement
+P79953	H	D	S	D	True	30.4	Ovochymase-2	Xenopus laevis	chymotrypsin-like
+P05805	H	D	S	S	True	38.5	Proproteinase E	Bos taurus	other S1
+Q7YRZ7	H	D	S	D	True	32.7	Granzyme A	Bos taurus	other S1
+P10323	H	D	S	D	True	31.2	Acrosin	Homo sapiens	other S1
+Q58L93	H	D	S	D	True	34.7	Venom prothrombin activator porpharin-D	Pseudechis porphyriacus	venom protease
+P00769	H	D	S	G	True	35.9	Chymotrypsin-2	Vespa crabro	chymotrypsin-like
+P04070	H	D	S	D	True	32.3	Vitamin K-dependent protein C	Homo sapiens	other S1
+P13366	H	D	S	A	True	32.5	Granzyme G	Mus musculus	other S1
+Q17025	H	D	S	G	True	35.1	Chymotrypsin-2	Anopheles gambiae	chymotrypsin-like
+Q03238	H	D	S	A	True	35.0	Granzyme M (Fragment)	Rattus norvegicus	other S1
+Q7RTY5	H	D	S	D	True	34.6	Serine protease 48	Homo sapiens	other S1
+Q5K2P9	H	D	S	D	True	33.5	Polyserase-2	Rattus norvegicus	other S1
+P28175	H	D	S	D	True	32.8	Clotting factor C	Tachypleus tridentatus	coag/complement
+Q27083	H	D	S	D	True	35.3	Clotting factor G beta subunit	Tachypleus tridentatus	coag/complement
+P24664	H	D	S	D	True	37.5	Trypsin	Saccharopolyspora erythraea	trypsin
+P50340	H	D	S	S	True	35.8	Mast cell protease 1	Meriones unguiculatus	other S1
+Q2UVH8	H	D	S	D	True	32.6	Acrosin	Meleagris gallopavo	other S1
+Q8VHJ4	H	D	S	D	True	32.8	Transmembrane protease serine 11D	Rattus norvegicus	other S1
+P05049	H	D	S	D	True	35.2	Serine protease snk	Drosophila melanogaster	other S1
+Q6IE14	H	D	S	D	True	34.3	Transmembrane protease serine 11B-like protein	Rattus norvegicus	other S1
+Q5R8J0	H	D	S	D	True	35.2	Tissue-type plasminogen activator	Pongo abelii	coag/complement
+Q26422	H	D	S	D	True	32.4	Limulus clotting factor C	Carcinoscorpius rotundicauda	coag/complement
+P21842	H	D	S	S	True	34.4	Chymase	Canis lupus familiaris	chymotrypsin-like
+Q86WS5	H	D	S	D	True	34.1	Transmembrane protease serine 12	Homo sapiens	other S1
+Q9QUL7	H	D	S	D	True	34.4	Tryptase gamma	Mus musculus	tryptase
+P43430	H	D	S	A	True	34.6	Mast cell protease 8	Mus musculus	other S1
+Q7RTY9	H	D	S	D	True	33.4	Serine protease 41	Homo sapiens	other S1
+Q9UL52	H	D	S	D	True	36.1	Transmembrane protease serine 11E	Homo sapiens	other S1
+A6MFK8	H	D	S	D	True	32.6	Venom prothrombin activator vestarin-D2	Demansia vestigiata	venom protease
+Q49QW1	H	D	S	D	True	33.7	Phenoloxidase-activating enzyme 1	Spodoptera litura	other S1
+Q58L94	H	D	S	D	True	33.4	Venom prothrombin activator notecarin-D2	Notechis scutatus scutatus	venom protease
+Q9Y5Q5	H	D	S	D	True	35.1	Atrial natriuretic peptide-converting enzyme	Homo sapiens	other S1
+P35047	H	D	S	D	True	33.7	Trypsin, alkaline C	Manduca sexta	trypsin
+Q3UKY7	H	D	S	N	True	32.0	Serine protease 38	Mus musculus	other S1
+Q9DAA4	H	D	A	R	False	32.5	Probable inactive serine protease 37	Mus musculus	other S1
+P08884	H	D	S	T	True	30.4	Granzyme E	Mus musculus	other S1
+Q27289	H	D	S	G	True	34.7	Chymotrypsin-1	Anopheles gambiae	chymotrypsin-like
+Q6ZWK6	H	D	S	D	True	35.2	Transmembrane protease serine 11F	Homo sapiens	other S1
+Q920S2	H	D	S	D	True	30.3	Serine protease 41	Mus musculus	other S1
+Q9Z319	H	D	S	D	True	34.7	Atrial natriuretic peptide-converting enzyme	Mus musculus	other S1
+Q8BHM9	H	D	S	D	True	34.0	Transmembrane protease serine 11F	Mus musculus	other S1
+P35046	H	D	S	D	True	33.3	Trypsin, alkaline B	Manduca sexta	trypsin
+A2VE36	H	D	S	D	True	33.6	Serine protease 45	Bos taurus	other S1
+Q4QXT9	H	D	S	D	True	33.0	Coagulation factor X	Tropidechis carinatus	coag/complement
+P0DJE9	H	D	S	D	True	28.6	Thrombin-like enzyme TLBm	Bothrops marajoensis	venom protease
+B5G6G5	H	D	S	D	True	32.7	Venom prothrombin activator nigrarin-D	Cryptophis nigrescens	venom protease
+Q91WP0	H	D	S	D	True	34.6	Mannan-binding lectin serine protease 2	Mus musculus	other S1
+A7WPL7	H	D	S	S	True	33.8	Chymase	Cavia porcellus	chymotrypsin-like
+P35045	H	D	S	D	True	33.3	Trypsin, alkaline A	Manduca sexta	trypsin
+Q1L659	H	D	S	D	True	33.9	Coagulation factor X isoform 1	Pseudonaja textilis	coag/complement
+P17945	Q	D	Y	G	False	33.7	Hepatocyte growth factor	Rattus norvegicus	coag/complement
+Q08048	Q	D	Y	G	False	33.7	Hepatocyte growth factor	Mus musculus	coag/complement
+C0HKF7	H	D	S	S	True	34.1	Serine protease 1	Drosophila melanogaster	trypsin
+C0HKF8	H	D	S	S	True	34.1	Serine protease 2	Drosophila melanogaster	other S1
+O00187	H	D	S	D	True	32.6	Mannan-binding lectin serine protease 2	Homo sapiens	other S1
+P14210	Q	D	Y	G	False	34.4	Hepatocyte growth factor	Homo sapiens	coag/complement
+P11033	H	D	S	T	True	32.1	Granzyme D	Mus musculus	other S1
+P21812	H	D	S	S	True	34.0	Mast cell protease 4	Mus musculus	other S1
+Q9TXD8	H	D	S	D	True	34.1	Venom peptide isomerase heavy chain	Agelenopsis aperta	venom protease
+P52905	H	D	S	D	True	33.4	Trypsin iota	Drosophila melanogaster	trypsin
+Q9JJS8	H	D	S	D	True	35.2	Mannan-binding lectin serine protease 2	Rattus norvegicus	other S1
+A6MFK7	H	D	S	D	True	33.0	Venom prothrombin activator vestarin-D1	Demansia vestigiata	venom protease
+Q80YN4	H	D	S	D	True	34.3	Atrial natriuretic peptide-converting enzyme	Rattus norvegicus	other S1
+Q00356	H	D	S	S	True	34.4	Mast cell protease-like protein	Mus musculus	other S1
+P97592	H	D	S	L	True	34.9	Mast cell protease 4	Rattus norvegicus	other S1
+O35164	H	D	S	S	True	34.4	Mast cell protease 9	Mus musculus	other S1
+Q9BH09	Q	D	Y	G	False	33.8	Hepatocyte growth factor	Felis catus	coag/complement
+P09650	H	D	S	S	True	33.6	Mast cell protease 1	Rattus norvegicus	other S1
+Q27081	H	D	S	D	True	33.1	Clotting factor B	Tachypleus tridentatus	coag/complement
+B7YZU2	H	D	S	D	True	31.5	Serine protease filzig	Drosophila melanogaster	other S1
+Q867B7	Q	D	Y	G	False	33.0	Hepatocyte growth factor	Canis lupus familiaris	coag/complement
+P15119	H	D	S	S	True	33.3	Mast cell protease 2	Mus musculus	other S1
+Q7Z5A4	H	D	S	D	True	32.8	Putative serine protease 42	Homo sapiens	other S1
+Q3V0Q7	H	D	S	D	True	30.5	Transmembrane protease serine 12	Mus musculus	other S1
+Q6ZMR5	H	D	S	D	True	33.3	Transmembrane protease serine 11A	Homo sapiens	other S1
+P50341	H	D	S	N	True	32.9	Mast cell protease 2	Meriones unguiculatus	other S1
+Q924N9	H	D	S	G	True	32.5	Serine protease 28	Mus musculus	other S1
+P81428	H	D	S	D	True	31.7	Venom prothrombin activator trocarin-D	Tropidechis carinatus	venom protease
+P82807	H	D	S	D	True	31.7	Venom prothrombin activator notecarin-D1	Notechis scutatus scutatus	venom protease
+P26927	Q	Q	Y	G	False	32.9	Hepatocyte growth factor-like protein	Homo sapiens	coag/complement
+P98159	H	D	S	D	True	31.2	Serine protease ndl	Drosophila melanogaster	other S1
+Q9WUW3	H	D	S	D	True	30.9	Complement factor I	Rattus norvegicus	coag/complement
+Q9Y6M0	H	D	S	D	True	32.5	Testisin	Homo sapiens	other S1
+Q76BS1	Q	D	Y	G	False	33.0	Hepatocyte growth factor	Bos taurus	coag/complement
+Q7SIG2	H	D	S	G	True	33.6	Chymotrypsin-1	Solenopsis invicta	chymotrypsin-like
+Q24K22	Q	Q	Y	G	False	32.9	Hepatocyte growth factor-like protein	Bos taurus	coag/complement
+P11034	H	D	S	T	True	33.1	Mast cell protease 1	Mus musculus	other S1
+P35042	H	D	S	D	True	34.4	Trypsin CFT-1	Choristoneura fumiferana	trypsin
+A0A1S4H5M5	H	D	G	D	False	34.8	Inactive CLIP domain-containing serine protease A28	Anopheles gambiae	other S1
+P80420	H	D	S	D	True	33.0	Trypsin-like protease	Streptomyces exfoliatus	trypsin
+Q99895	H	D	S	S	True	33.1	Chymotrypsin-C	Homo sapiens	chymotrypsin-like
+Q8I6K0	H	D	S	D	True	32.4	Phenoloxidase-activating factor 3	Holotrichia diomphalia	coag/complement
+Q402U7	H	D	S	D	True	32.4	Serine protease 44	Mus musculus	other S1
+Q61129	H	D	S	D	True	31.6	Complement factor I	Mus musculus	coag/complement
+P21902	H	D	S	D	True	34.4	Proclotting enzyme	Tachypleus tridentatus	other S1
+Q58L95	H	D	S	D	True	30.9	Venom prothrombin activator omicarin-C catalytic subunit	Oxyuranus microlepidotus	venom protease
+P51124	H	D	S	A	True	35.8	Granzyme M	Homo sapiens	other S1
+Q7RTY3	H	D	S	N	True	30.4	Putative serine protease 45	Homo sapiens	other S1
+P49276	H	D	S	D	True	32.9	Mite allergen Der f 6	Dermatophagoides farinae	other S1
+P83370	H	D	S	D	True	30.6	Venom prothrombin activator hopsarin-D	Hoplocephalus stephensii	venom protease
+Q7M3E1	H	D	S	S	True	31.7	Chymotrypsin-C	Bos taurus	chymotrypsin-like
+P26928	Q	Q	Y	G	False	33.1	Hepatocyte growth factor-like protein	Mus musculus	coag/complement
+Q7PPZ8	H	D	S	-	True	31.5	Mating-regulated atrial protease 1	Anopheles gambiae	other S1
+Q58L96	H	D	S	D	True	30.9	Venom prothrombin activator oscutarin-C catalytic subunit	Oxyuranus scutellatus	venom protease
+P79204	H	D	S	S	True	32.0	Mast cell protease 2	Ovis aries	other S1
+O97398	H	D	S	S	True	29.5	Chymotrypsin	Phaedon cochleariae	chymotrypsin-like
+Q9V3Z2	H	D	S	D	True	34.0	Serine protease 7	Drosophila melanogaster	other S1
+F5HKX0	H	D	S	D	True	32.1	CLIP domain-containing serine protease B9	Anopheles gambiae	other S1
+Q69DK8	H	D	S	D	True	32.6	Complement C1s subcomponent	Sus scrofa	coag/complement
+B5U2W0	H	D	S	D	True	33.9	Venom serine protease Bi-VSP	Bombus ignitus	venom protease
+A0A6I8TBG6	H	D	G	D	False	34.0	Inactive CLIP domain-containing serine protease A3	Aedes aegypti	other S1
+Q3SYP2	H	D	S	S	True	32.6	Chymotrypsin-C	Mus musculus	chymotrypsin-like
+Q9BZJ3	H	D	S	D	True	34.9	Tryptase delta	Homo sapiens	tryptase
+P00770	H	D	S	A	True	32.1	Mast cell protease 2	Rattus norvegicus	other S1
+Q54179	H	D	S	D	True	31.5	Trypsin-like protease	Streptomyces glaucescens	trypsin
+Q9VP95	H	D	S	D	True	33.4	Seminase	Drosophila melanogaster	other S1
+Q61096	H	D	S	G	True	32.0	Myeloblastin	Mus musculus	other S1
+P50339	H	D	S	N	True	32.0	Chymase	Rattus norvegicus	chymotrypsin-like
+Q56VR3	H	D	S	D	True	29.3	Venom prothrombin activator pseutarin-C catalytic subunit	Pseudonaja textilis	venom protease
+P05156	H	D	S	D	True	30.0	Complement factor I	Homo sapiens	coag/complement
+Q2TV78	Q	Q	Y	G	False	31.6	Putative macrophage stimulating 1-like protein	Homo sapiens	other S1
+P83298	H	D	S	G	True	31.6	Fibrinolytic enzyme, isozyme C	Lumbricus rubellus	other S1
+O97366	H	D	S	D	True	32.0	Phenoloxidase-activating factor 1	Holotrichia diomphalia	coag/complement
+Q2VG86	H	D	S	D	True	33.7	CLIP domain-containing serine protease HP8	Bombyx mori	other S1
+P85202	H	D	S	T	True	31.6	Chymase	Oryctolagus cuniculus	chymotrypsin-like
+P21844	H	D	S	N	True	31.1	Chymase	Mus musculus	chymotrypsin-like
+Q3UP87	H	D	S	G	True	32.3	Neutrophil elastase	Mus musculus	elastase
+P08246	H	D	S	G	True	33.9	Neutrophil elastase	Homo sapiens	elastase
+P55091	H	D	S	S	True	32.6	Chymotrypsin-C	Rattus norvegicus	chymotrypsin-like
+P15156	H	D	S	D	True	34.1	Calcium-dependent serine proteinase	Mesocricetus auratus	other S1
+Q7PEV7	H	D	S	D	True	31.6	CLIP domain-containing serine protease B4	Anopheles gambiae	other S1
+Q9VB68	H	D	S	D	True	28.6	Serine protease grass	Drosophila melanogaster	other S1
+Q5R5A4	H	D	S	D	True	29.6	Complement factor I	Pongo abelii	coag/complement
+Q6P6T1	H	D	S	D	True	33.3	Complement C1s subcomponent	Rattus norvegicus	coag/complement
+Q9XXV0	H	D	S	D	True	33.3	Phenoloxidase-activating enzyme	Bombyx mori	other S1
+Q1L658	H	D	S	D	True	31.3	Coagulation factor X isoform 2	Pseudonaja textilis	coag/complement
+Q8K4I7	H	D	P	D	False	32.0	Inactive serine protease 45	Mus musculus	other S1
+A0A126GUP6	H	D	S	D	True	29.2	Melanization protease 1	Drosophila melanogaster	other S1
+Q7QBP4	H	D	S	D	True	30.9	CLIP domain-containing serine protease B10	Anopheles gambiae	other S1
+Q9NAS9	H	D	S	D	True	31.3	CLIP domain-containing serine protease B15	Anopheles gambiae	other S1
+Q6AXZ6	H	D	S	S	True	29.0	Serine protease 40	Rattus norvegicus	other S1
+Q8MUG0	H	D	S	D	True	31.1	Lectizyme	Glossina fuscipes fuscipes	other S1
+Q4TTV7	H	D	S	D	True	31.1	Lectizyme	Glossina austeni	other S1
+A0A1S4H5S2	H	D	G	D	False	32.3	Inactive CLIP domain-containing serine protease A8	Anopheles gambiae	other S1
+Q76HL1	H	D	S	S	True	29.6	Serine protease 43	Mus musculus	other S1
+P35003	H	D	S	S	True	27.6	Chymotrypsin-like serine proteinase	Haliotis rufescens	chymotrypsin-like
+A6H6T1	H	D	S	S	True	29.7	Serine protease 40	Mus musculus	other S1
+Q0VCX1	H	D	S	D	True	31.4	Complement C1s subcomponent	Bos taurus	coag/complement
+P80010	H	D	N	D	False	37.0	Plasminogen	Equus caballus	coag/complement
+C1IBY0	H	D	S	-	True	32.2	Tabserin	Tabanus yao	other S1
+Q17004	H	D	S	G	True	31.2	Serine protease SP24D	Anopheles gambiae	other S1
+O96900	H	D	S	-	True	33.1	Serine protease SSP1 (Fragment)	Scolopendra subspinipes	other S1
+O70169	H	N	S	S	False	28.6	Inactive serine protease 39	Mus musculus	other S1
+Q9GRW0	H	D	G	D	False	31.6	Phenoloxidase-activating factor 2	Holotrichia diomphalia	coag/complement
+Q7M4I3	H	D	S	D	True	30.6	Venom protease	Bombus pensylvanicus	venom protease
+Q5M8S2	H	D	S	D	True	29.0	Serine protease 46	Mus musculus	other S1
+P09871	H	D	S	D	True	30.7	Complement C1s subcomponent	Homo sapiens	coag/complement
+Q8CG14	H	D	S	D	True	32.5	Complement C1s-1 subcomponent	Mus musculus	coag/complement
+P0DPS3	R	D	S	D	False	29.8	Snake venom serine protease VaSP1 (Fragment)	Vipera ammodytes ammodytes	venom protease
+Q6IE63	H	D	S	D	True	29.0	Serine protease 46	Rattus norvegicus	other S1
+Q8CFG8	H	D	S	D	True	34.0	Complement C1s-1 subcomponent	Mus musculus	coag/complement
+P20160	S	D	G	G	False	29.2	Azurocidin	Homo sapiens	other S1
+P00775	H	D	S	D	True	29.2	Trypsin	Streptomyces griseus	trypsin
+Q6IE62	H	D	P	N	False	29.8	Inactive serine protease 45	Rattus norvegicus	other S1
+F1DQG5	H	D	S	G	True	31.3	Epithelial serine protease	Anopheles gambiae	other S1
+P08897	H	D	S	S	True	31.7	Collagenase	Hypoderma lineatum	other S1
+Q5R544	H	D	S	D	True	31.1	Complement C1r subcomponent	Pongo abelii	coag/complement
+B6D985	K	D	A	D	False	28.9	Haptoglobin	Cervus elaphus	other S1
+P19007	K	D	A	D	False	28.9	Haptoglobin	Oryctolagus cuniculus	other S1
+B6E141	K	D	A	D	False	27.7	Haptoglobin	Capra ibex	other S1
+Q8MZM7	H	D	S	D	True	29.9	CLIP domain-containing serine protease B8	Anopheles gambiae	other S1
+P17207	H	D	S	A	True	32.9	Serine protease 3	Drosophila melanogaster	other S1
+Q8MQS8	H	D	S	D	True	30.6	Venom serine protease 34	Apis mellifera	venom protease
+P00736	H	D	S	D	True	30.7	Complement C1r subcomponent	Homo sapiens	coag/complement
+Q4R577	H	D	S	D	True	29.0	Complement C1r subcomponent	Macaca fascicularis	coag/complement
+Q5R1W3	H	D	S	D	True	30.7	Complement C1r subcomponent	Pan troglodytes	coag/complement
+P19006	K	D	A	D	False	28.3	Haptoglobin	Canis lupus familiaris	other S1
+Q8CFG9	H	D	S	D	True	30.8	Complement C1r-B subcomponent	Mus musculus	coag/complement
+Q28801	K	D	A	D	False	28.5	Haptoglobin-related protein (Fragment)	Pan troglodytes	other S1
+P00738	K	D	A	D	False	27.7	Haptoglobin	Homo sapiens	other S1
+P00739	K	D	A	D	False	28.1	Haptoglobin-related protein	Homo sapiens	other S1
+Q8SPS7	K	D	A	D	False	28.2	Haptoglobin	Sus scrofa	other S1
+Q2TBU0	K	D	A	D	False	27.3	Haptoglobin	Bos taurus	other S1
+Q7Z269	H	D	S	D	True	31.3	Venom serine protease	Polistes dominula	venom protease
+Q5R5F6	K	D	A	D	False	27.3	Haptoglobin	Pongo abelii	other S1
+A0A6J1W8N1	H	D	G	D	False	30.5	Phenoloxidase-activating factor 2 (Fragment)	Galleria mellonella	coag/complement
+A8JUP7	H	D	S	D	True	29.9	Serine protease Hayan	Drosophila melanogaster	other S1
+P23604	H	D	S	D	True	33.0	Achelase-1	Lonomia achelous	other S1
+P84033	H	D	S	D	True	28.3	U21-ctenitoxin-Pn1a	Phoneutria nigriventer	other S1
+P23605	H	D	S	D	True	33.3	Achelase-2	Lonomia achelous	other S1
+G5AE35	S	N	T	D	False	29.9	Glucanase inhibitor protein 3	Phytophthora sojae (strain P6497)	other S1
+P50417	K	D	A	D	False	26.5	Haptoglobin	Ateles geoffroyi	other S1
+Q3UZ09	H	D	S	S	True	29.3	Complement C1r subcomponent-like protein	Mus musculus	coag/complement
+Q5VAN1	K	D	A	D	False	26.5	Haptoglobin	Papio hamadryas	other S1
+P13582	H	D	S	D	True	30.1	Serine protease ea	Drosophila melanogaster	other S1
+Q9VWU1	H	D	S	D	True	29.9	Serine protease persephone	Drosophila melanogaster	other S1
+Q8CG16	H	D	S	D	True	28.7	Complement C1r-A subcomponent	Mus musculus	coag/complement
+Q966V2	H	D	S	D	True	27.8	Spermosin	Halocynthia roretzi	other S1
+Q9UI38	H	D	T	K	False	28.2	Probable threonine protease PRSS50	Homo sapiens	other S1
+O35086	K	D	A	D	False	26.5	Haptoglobin	Mesocricetus auratus	other S1
+Q60574	K	D	A	D	False	26.5	Haptoglobin	Mus caroli	other S1
+Q9NAS8	H	D	S	D	True	27.3	CLIP domain-containing serine protease B14	Anopheles gambiae	other S1
+Q571E5	H	D	S	G	True	28.0	Serine protease 53	Mus musculus	other S1
+B1AC88	A	D	T	D	False	28.2	Glucanase inhibitor protein 3	Phytophthora infestans	other S1
+Q61646	K	D	A	D	False	26.2	Haptoglobin	Mus musculus	other S1
+Q2L4Q9	H	D	S	G	True	26.9	Serine protease 53	Homo sapiens	other S1
+P80015	S	D	R	R	False	28.0	Azurocidin	Sus scrofa	other S1
+Q6IE64	H	D	S	S	True	28.3	Complement C1r subcomponent-like protein	Rattus norvegicus	coag/complement
+Q945T9	M	D	T	D	False	29.3	Glucanase inhibitor protein 2	Phytophthora sojae	other S1
+P06866	Q	D	A	D	False	25.3	Haptoglobin	Rattus norvegicus	other S1
+A8MTI9	H	D	S	-	True	27.4	Putative serine protease 47	Homo sapiens	other S1
+A0A1S4GMJ4	H	D	S	D	True	31.4	CLIP domain-containing serine protease C9	Anopheles gambiae	other S1
+Q9VCJ8	H	D	S	D	True	29.4	Spaetzle-processing enzyme	Drosophila melanogaster	other S1
+Q62558	K	D	A	D	False	25.2	Haptoglobin	Mus saxicola	other S1
+B1AC87	I	D	T	D	False	28.0	Glucanase inhibitor protein 2	Phytophthora infestans	other S1
+Q8BLH5	H	D	T	E	False	28.1	Probable threonine protease PRSS50	Mus musculus	other S1
+A0A834RHI5	Q	N	A	-	False	27.7	Complement inhibitor S-D1	Sarcoptes scabiei	coag/complement
+Q9NZP8	H	D	S	S	True	27.0	Complement C1r subcomponent-like protein	Homo sapiens	coag/complement
+B1AC90	A	D	T	D	False	26.4	Glucanase inhibitor protein 1	Phytophthora infestans	other S1
+Q7K5M0	S	D	V	D	False	24.8	Inactive serine protease scarface	Drosophila melanogaster	other S1
+Q945U0	T	N	T	D	False	27.0	Glucanase inhibitor protein 1	Phytophthora sojae	other S1
+Q6UXH9	H	D	T	D	False	27.3	Inactive serine protease PAMR1	Homo sapiens	other S1
+Q5RDI1	H	D	T	D	False	27.3	Inactive serine protease PAMR1	Pongo abelii	other S1
+Q5E9P5	H	D	T	D	False	28.0	Inactive serine protease PAMR1	Bos taurus	other S1
+Q6VPT6	H	D	A	S	False	26.3	Complement inhibitor S-I1	Sarcoptes scabiei	coag/complement
+Q6DIV5	H	D	T	S	False	28.2	Inactive serine protease PAMR1	Xenopus tropicalis	other S1
+Q8BU25	H	D	T	D	False	27.5	Inactive serine protease PAMR1	Mus musculus	other S1
+B1AC89	A	D	T	D	False	27.2	Glucanase inhibitor protein 4	Phytophthora infestans	other S1
+Q6PEW0	S	N	P	T	False	28.3	Inactive serine protease 54	Homo sapiens	other S1
+Q7M756	S	N	P	N	False	24.4	Inactive serine protease 54	Mus musculus	other S1
+A0A1S4HE51	R	N	P	D	False	23.6	Inactive CLIP domain-containing serine protease A30	Anopheles gambiae	other S1
+P81187	H	D	S	D	True	23.2	Complement factor B	Bos taurus	coag/complement
+Q864W1	H	D	S	D	True	23.7	Complement factor B	Pongo pygmaeus	coag/complement
+A4QD57	H	D	S	-	True	26.2	Uncharacterized peptidase cgR_1176	Corynebacterium glutamicum (strain R)	other S1
+Q8NRF6	H	D	S	-	True	26.2	Putative peptidase Cgl1093	Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / JCM 1318 / BCRC 11384 / CCUG 27702 / LMG 3730 / NBRC 12168 / NCIMB 10025 / NRRL B-2784 / 534)	other S1
+P00751	H	D	S	D	True	23.7	Complement factor B	Homo sapiens	coag/complement
+Q864W0	H	D	S	D	True	23.7	Complement factor B	Pan troglodytes	coag/complement
+Q864V9	H	D	S	D	True	23.7	Complement factor B	Gorilla gorilla gorilla	coag/complement
+Q03710	H	D	S	D	True	24.1	Complement factor B	Sus scrofa	coag/complement
+P04186	H	D	S	D	True	20.9	Complement factor B	Mus musculus	coag/complement
+P21180	H	D	S	D	True	22.9	Complement C2	Mus musculus	coag/complement
+Q3SYW2	H	D	S	D	True	23.5	Complement C2	Bos taurus	coag/complement
+C1JE15	H	D	S	D	True	25.6	Scolexin B	Heliothis virescens	other S1
+Q8SQ75	H	D	S	D	True	24.5	Complement C2	Pongo pygmaeus	coag/complement
+P06681	H	D	S	D	True	24.5	Complement C2	Homo sapiens	coag/complement
+Q863A0	H	D	S	D	True	24.5	Complement C2	Gorilla gorilla gorilla	coag/complement
+Q8SQ74	H	D	S	D	True	24.3	Complement C2	Pan troglodytes	coag/complement
