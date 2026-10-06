@@ -1,6 +1,6 @@
 # Defining an empirical family boundary and sampling strategy for trypsin
 
-Akanksha Rajput · 6 October 2026 · Code and data: https://github.com/akanksha-phd/trypsin-family-boundary
+Akanksha Rajput · October 06, 2026 · Code and data: https://github.com/akanksha-phd/trypsin-family-boundary
 
 ## Summary of recommendations
 
