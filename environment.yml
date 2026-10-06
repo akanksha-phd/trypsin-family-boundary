@@ -1,1 +1,16 @@
-
+name: trypsin
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - mmseqs2
+  - mafft
+  - hmmer
+  - biopython
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - requests
+ 
